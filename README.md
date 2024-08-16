@@ -19,6 +19,8 @@
 
 ## 如何部署
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sibyl2116/Cloudflare-Workers-Proxy)
+
 以下是部署 Cloudflare Workers 反向代理脚本的详细步骤：
 
 1. 注册 Cloudflare 账户：如果您尚未拥有 Cloudflare 账户，请在 [Cloudflare 官方网站](https://www.cloudflare.com/) 上注册一个账户。
