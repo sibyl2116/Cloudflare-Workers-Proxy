@@ -3,6 +3,7 @@ main = "worker.js"
 compatibility_date = "2023-08-23"
 
 [env.production]
+name = "Cloudflare-Workers-Proxy"
 routes = [
   { pattern = "proxy.42783670.xyz", custom_domain = true },
 ]
